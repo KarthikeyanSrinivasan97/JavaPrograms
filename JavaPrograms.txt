@@ -1,0 +1,107 @@
+Here’s a curated list of Top 50 Core Java Programs every 5+ years experienced Automation Tester should know. These cover practical, interview-relevant, and automation-useful concepts. Each one is a strong candidate for daily practice:
+
+✅ Java Basics & Logic Building
+Print Fibonacci series up to N terms
+
+Check if a number is Prime
+
+Factorial of a number using recursion
+
+Reverse a number
+
+Reverse a string
+
+Palindrome number checker
+
+Palindrome string checker
+
+Count vowels and consonants in a string
+
+Check Armstrong number
+
+Swap two numbers without third variable
+
+✅ Arrays & Strings
+Find second largest element in an array
+
+Remove duplicates from array without using collections
+
+Find missing number in a series (1 to N)
+
+Sort array without using sort function
+
+Print common elements from two arrays
+
+Count character frequency in a string
+
+Remove duplicate characters from string
+
+Check if two strings are anagrams
+
+Find the first non-repeated character in a string
+
+Program to implement String compression logic
+
+✅ Collections & Maps
+Iterate HashMap using different methods
+
+Count frequency of words in a string using Map
+
+Sort HashMap by keys and by values
+
+Remove duplicates from ArrayList
+
+Find duplicates in an ArrayList
+
+Convert Array to List and vice versa
+
+Find max and min in List
+
+Use TreeMap to maintain sorting order
+
+Create custom sorting using Comparator
+
+LinkedHashMap to maintain insertion order
+
+✅ OOPs Concepts Practicals
+Implement method overloading and overriding
+
+Use super and this keyword in inheritance
+
+Interface vs Abstract class example
+
+Create a class with encapsulation
+
+Constructor overloading example
+
+Singleton class implementation
+
+Runtime polymorphism with WebDriver example
+
+Use final class, method, and variable
+
+Example for static vs non-static usage
+
+Use of enum in a program
+
+✅ Exception Handling & File I/O
+Handle multiple exceptions using try-catch-finally
+
+Custom exception creation
+
+Read data from .txt file
+
+Write data to a file
+
+Read Excel (.xlsx) using Apache POI
+
+Parse a JSON using Jackson or org.json
+
+Properties file reading and writing
+
+Logging using Log4j or Java logger
+
+Try-with-resources example for file handling
+
+Program to simulate a retry mechanism (useful in automation)
+
