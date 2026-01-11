@@ -42,7 +42,7 @@ Find the first non-repeated character in a string
 
 Program to implement String compression logic
 
-✅ Collections & Maps
+✅ Collections & Maps - very important
 Iterate HashMap using different methods
 
 Count frequency of words in a string using Map
@@ -104,4 +104,5 @@ Logging using Log4j or Java logger
 Try-with-resources example for file handling
 
 Program to simulate a retry mechanism (useful in automation)
+
 
